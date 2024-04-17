@@ -1,0 +1,24 @@
+h1.myPage{
+    color: black;
+    text-align: center;
+}
+
+body.creator{
+    background-color: rgb(196, 196, 196);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a.newlink{
+    color: black;
+    text-align: center;
+}
+
+div.mylists{
+    text-align: center;
+}
+
+ol.myol{
+    display:inline-block;
+    text-align: left;
+}
